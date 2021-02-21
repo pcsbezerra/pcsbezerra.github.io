@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "pcsbezerra@gmail.com"
+    email                : "md5"
   generatedFields:
     date:
       type               : "date"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
