@@ -14,6 +14,8 @@ Welcome! I'm a Research Professional at Chicago Booth. I received my Bachelor’
 
 [Download my CV here](https://github.com/pcsbezerra/pcsbezerra.github.io/blob/master/files/cv.pdf)
 
-#[Download my CV here](http://pcsbezerra.github.io/files/cv.pdf)
+#[Download my CV here](https://pcsbezerra.github.io/files/cv.pdf)
 
 #https://github.com/pcsbezerra/pcsbezerra.github.io/blob/master/files/cv.pdf
+
+files/cv.pdf
