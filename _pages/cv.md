@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<a href="pcsbezerra.github.io/files/cv.pdf" target="_blank">PDF.</a>
 {% include base_path %}
 
 Education
