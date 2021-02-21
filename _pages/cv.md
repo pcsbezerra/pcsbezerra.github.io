@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Finance and Quantiative Methods, University of Brasília, 2016
+* B.S. in Economics, University of Brasília, 2021
+* B.S. in Accounting, University of Brasília, 2013
 
 Work experience
 ======
