@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<a href="pcsbezerra.github.io/files/cv.pdf" target="_blank">PDF.</a>
+<embed src="https://pcsbezerra.github.io/file/cv.pdf" width="600px" height="500px" />
+
 {% include base_path %}
 
 Education
