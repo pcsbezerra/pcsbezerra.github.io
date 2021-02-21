@@ -10,6 +10,7 @@ Welcome! I'm a Research Professional at Chicago Booth. I received my Bachelor’
 
 [Download my CV here](https://pcsbezerra.github.io/files/cv.pdf)
 
+Contact: pcsbezerra (at) gmail (dot) com
 
 
 
