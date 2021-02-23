@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a Research Professional at Chicago Booth. I hold a Bachelor of Science in Economics, a Bachelor of Science in Accounting and a Master Degree in Finance and Quantitative Methods. I have experience with data-driven research and a strong theoretical background. Fields of interest: Asset Pricing, Machine Learning, Econometrics, Quantitative Finance, Empirical Capital Markets - Financial and Managerial Accounting.
+Welcome! I'm a Research Professional at Chicago Booth. I hold a Bachelor of Science in Economics, a Bachelor of Science in Accounting and a Master Degree in Finance and Quantitative Methods. I have experience with data-driven research and a strong theoretical background. 
+
+Fields of interest: Asset Pricing, Machine Learning, Econometrics, Quantitative Finance, Empirical Capital Markets - Financial and Managerial Accounting.
 
 Software / Programming Languages:
 • Programming Languages: R (advanced) and Python (intermediate).
