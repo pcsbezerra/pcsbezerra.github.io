@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm an Incoming Research Professional at Chicago Booth. I hold a Bachelor of Science in Economics, a Bachelor of Science in Accounting and a Master Degree in Finance and Quantitative Methodsfrom the [University of Brasília](https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia) (UnB, Brazil) . I have experience with data-driven research and a strong theoretical background. 
+Welcome! 
+I hold a Bachelor of Science in Economics, a Bachelor of Science in Accounting and a Master Degree in Finance and Quantitative Methodsfrom the [University of Brasília](https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia) (UnB, Brazil) . I have experience with data-driven research and a strong theoretical background. 
 
 Fields of interest: Asset Pricing, Machine Learning, Econometrics, Quantitative Finance, Empirical Capital Markets - Financial and Managerial Accounting.
 
